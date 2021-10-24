@@ -1,22 +1,9 @@
-// import logo from './logo.svg';
-// import './App.css';
-
-// function App() {
-//   return (
-//     <div className="App">
-      
-
-//     </div>
-//   );
-// }  
-// export default App;
-
 import React from 'react';
-import style from './style.css';
+import "./style.css";
 
 const Terms = () => {
   return (
-    <div id="contents" className={style.Container}>
+    <div id="contents">
       <h2>사용약관</h2>
       <h3>
       제1조(목적)
